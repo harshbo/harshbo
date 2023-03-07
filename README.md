@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Borigi Harshini</h1>
+<h1 align="center">Hello 👋, I'm Borigi Harshini</h1>
 <h3 align="center">A passionate student from India</h3>
-
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 - 📫 How to reach me **harshini.borigi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
