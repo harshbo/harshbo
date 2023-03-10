@@ -1,3 +1,4 @@
+![](https://tse3.mm.bing.net/th?id=OIP.OCW8kz0nVgatQUDqUaDrSwHaCO&pid=Api&P=0)![](https://tse3.mm.bing.net/th?id=OIP.OCW8kz0nVgatQUDqUaDrSwHaCO&pid=Api&P=0)
 <h1 align="center">Hello 👋, I'm Borigi Harshini</h1>
 <h3 align="center">A passionate student from India</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
